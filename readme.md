@@ -1,0 +1,1 @@
+Python program that interacts with users via text input in the terminal. It can handle simple conversations, answer predefined questions, or perform specific tasks like setting reminders or providing information. The chatbot is implemented using basic conditional statements for rule-based responses.
